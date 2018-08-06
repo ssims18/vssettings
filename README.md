@@ -1,0 +1,2 @@
+# vssettings
+SSMS editor settings
